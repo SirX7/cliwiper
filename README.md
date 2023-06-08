@@ -12,6 +12,9 @@ To install with pip, or pipx run:
 
 ```
 from cliwiper import wiper  
+```
+
+```
 wiper()  
 ```
 
