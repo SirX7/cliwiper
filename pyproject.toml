@@ -10,7 +10,7 @@ authors = [
 description = "clear the cli"
 readme = "README.md"
 requires-python = ">=3.8"
-license = {text = "MIT License"}
+license = "MIT"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python",
