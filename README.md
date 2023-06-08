@@ -1,0 +1,2 @@
+# cliwiper
+Basic cli cleaner
