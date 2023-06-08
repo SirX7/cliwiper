@@ -11,9 +11,16 @@ To install with pip, or pipx run:
 # Usages  
 
 ```
-from cliwiper import wiper  
+from cliwiper import cliwiper  
 ```
+```
+cliwiper.wiper()  
+```
+or  
 
+```
+from cliwiper.cliwiper import wiper  
+```
 ```
 wiper()  
 ```
